@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fcd6c999-e0a4-4195-b83f-c203936dca5d" name="realwordpressdevelopment.com" url="">
+        <fileTransfer host="realwordpressdevelopment.com" port="21" rootFolder="/portfolio">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
